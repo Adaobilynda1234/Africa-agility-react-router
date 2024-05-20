@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+}
+
+ul {
+  display: flex;
+}
+ul li {
+  list-style: none;
+  margin-left: 8px;
+}
